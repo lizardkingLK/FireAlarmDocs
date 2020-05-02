@@ -36,7 +36,7 @@ C) Run the FireAlarmRest
 6. If server not initiallized, choose the tomcat directory from the installed directory.
 7. The FireAlarmRest should be run on the tomcat server with given port.
 
-** Make sure to use the REST API port runs on PORT 8080 **
+** Make sure to use the REST API port runs on PORT 8080 and db server on port 3306 **
 
 D) Run the FireAlarmSimulator
 
