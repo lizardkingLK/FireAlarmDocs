@@ -22,14 +22,14 @@ gallegesupuni@gmail.com
 0714636885
 
 YouTube link
-* 
+* https://youtu.be/IT5vrPwLBlE
 
 
 
 GitHub project link
 
-Select the project named ‘FireAlarmProject’ from https://github.com/lizardkingLK?tab=projects
+Select the project named â€˜FireAlarmProjectâ€™ from https://github.com/lizardkingLK?tab=projects
 
 
-README – DS_ASSIGNMENT_2
+README â€“ DS_ASSIGNMENT_2
 
